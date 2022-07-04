@@ -1,0 +1,4 @@
+{
+  "*.ts": ["prettier --write", "eslint"],
+  "*.md": "prettier --write"
+}
