@@ -12,14 +12,14 @@ specifiers:
   eslint-plugin-promise: ^6.0.0
   husky: ^8.0.1
   lint-staged: ^13.0.3
-  npm-migrate-all: 0.2.0
+  npm-migrate-all: 0.2.2
   prettier: ^2.7.1
   typescript: '*'
   zx: ^7.0.7
 
 dependencies:
   axios: 0.27.2
-  npm-migrate-all: 0.2.0
+  npm-migrate-all: 0.2.2
   zx: 7.0.7
 
 devDependencies:
@@ -1684,8 +1684,8 @@ packages:
     engines: {node: '>=0.10.0'}
     dev: true
 
-  /npm-migrate-all/0.2.0:
-    resolution: {integrity: sha512-Oi+K1bM60ZbRj2ExRYbi4UlcOkvD1cl963wM8VMageLQcrU88t+h+Mvon5vZEiuPKzqnHwF8k0+IgxZUoq8iVg==}
+  /npm-migrate-all/0.2.2:
+    resolution: {integrity: sha512-x/9YkpHOoj8S2BJPFIsd7o2TRWGEw7UOj2OaYKSVOw2nVa3JApiELZ2jvmTy3E8KsIqTvhQG16UreiDCx/ZnqQ==}
     hasBin: true
     dependencies:
       '@types/p-limit': 2.2.0
