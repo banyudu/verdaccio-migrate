@@ -32,3 +32,7 @@ verdaccioMigrate(from, to).then(
 ```bash
 npx verdaccio-migrate --from=https://registry.npmjs.org/ --to=http://localhost:4873/
 ```
+
+## Details
+
+For more details, checkout [npm-migrate-all](https://github.com/banyudu/npm-migrate-all).
