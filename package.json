@@ -48,7 +48,7 @@
   },
   "dependencies": {
     "axios": "^0.27.2",
-    "npm-migrate-all": "0.2.4",
+    "npm-migrate-all": "0.2.5",
     "zx": "^7.0.7"
   }
 }
